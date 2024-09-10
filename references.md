@@ -1,0 +1,3 @@
+# References
+
+* conflicting text
